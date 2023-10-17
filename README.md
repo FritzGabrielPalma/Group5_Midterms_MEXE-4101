@@ -174,7 +174,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
 
->>
+>> ![ISEVEN](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cf296889-d75b-4288-b938-931d581df105)
+
 > D.2. ISODD
 >> -> The Excel ISODD function returns TRUE when a numeric value is odd, and FALSE for even numbers.
 >>
@@ -184,7 +185,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
 
->>
+>> ![ISODD](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1f9ccfb9-8845-4886-9592-2ecf8c88a97f)
+
 > D.3. TYPE
 >> -> The Excel TYPE function returns a numeric code representing “type” in 5 categories:
 >>
@@ -196,7 +198,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
 
->>
+>> ![TYPE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2492be2e-c39c-415f-99c6-0b6e1de10063)
+
 > D.4.  ISNUMBER
 >> -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
  
@@ -204,7 +207,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
 
->>
+>> ![ISNUMBER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/711342fb-2c62-4a25-a3a4-50c517a1ccb6)
+
 > D.5. ISTEXT
 >> -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not. 
 
@@ -212,7 +216,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
 
->>
+>> ![ISTEXT](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2b4a5af7-a922-4e4f-9282-886be4343933)
+
 ### 𝐄. 𝐃𝐀𝐓𝐄 𝐀𝐍𝐃 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > E.1. Day, Month, Year
 >> DAY
