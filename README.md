@@ -1,8 +1,6 @@
 # 𝐆𝐫𝐨𝐮𝐩𝟓_𝐌𝐢𝐝𝐭𝐞𝐫𝐦𝐬_𝐌𝐄𝐗𝐄-𝟒𝟏𝟎𝟏
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
-[Dashboard](https://github.com/FritzGabrielPalma/Group5_Midterms_MEXE-4101/blob/main/README.md#%F0%9D%90%83%F0%9D%90%80%F0%9D%90%92%F0%9D%90%87%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%80%F0%9D%90%91%F0%9D%90%83)
-
 ![image](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5994307f-daae-4ba7-8140-96ce07ffe721)
 
 ### 𝐇&𝐌 - 𝐇𝐞𝐧𝐧𝐞𝐬 & 𝐌𝐚𝐮𝐫𝐢𝐭𝐳
@@ -21,8 +19,9 @@ Presented below is an interactive Dashboard made from the available data and bee
 ### 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃
 <img width="1924" alt="image (1)" src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e0576d2c-923d-4eec-9325-614b25f477b6">
 
-Using Excel and the given data, participants in the activity will manipulate and demonstrate various Text, Math, Logical, Formation, Date and Time, and Lookup Functions. The corresponding tables created by the authors of this group using the various functions are shown below. 
 
+# 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒
+Using Excel and the given data, participants in the activity will manipulate and demonstrate various Text, Math, Logical, Formation, Date and Time, and Lookup Functions. The corresponding tables created by the authors of this group using the various functions are shown below. 
 
 ### 𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
