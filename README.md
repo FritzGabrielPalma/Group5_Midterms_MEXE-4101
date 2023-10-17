@@ -23,36 +23,36 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 ### 𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
->> A.1. UPPER
->>> -> The Microsoft Excel UPPER function allows you to convert text to all uppercase.
+> A.1. UPPER
+>> -> The Microsoft Excel UPPER function allows you to convert text to all uppercase.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
 
->> A.2. LOWER
->>> -> The Microsoft Excel UPPER function allows you to convert text to all lowercase.
+> A.2. LOWER
+>> -> The Microsoft Excel UPPER function allows you to convert text to all lowercase.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
 
->> A.3. CONCATENATE
->>> -> The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
+> A.3. CONCATENATE
+>> -> The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘕𝘊𝘈𝘛𝘌𝘕𝘈𝘛𝘌(𝘵𝘦𝘹𝘵1, [𝘵𝘦𝘹𝘵2, … 𝘵𝘦𝘹𝘵_𝘯])
 
->> A.4. LENGTH
->>>  -> The Microsoft Excel TRIM function returns the length of the specified string.
+> A.4. LENGTH
+>>  -> The Microsoft Excel TRIM function returns the length of the specified string.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘌𝘕( 𝘵𝘦𝘹𝘵)
 
->> A.5. REPLACE
->>> -> The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
+> A.5. REPLACE
+>> -> The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -122,42 +122,42 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> 
 ### 𝐂. 𝐋𝐎𝐆𝐈𝐂𝐀𝐋 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
->> C.1. IF
->>> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE
+> C.1. IF
+>> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
 
->>
->> C.2. AND
->>> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
+>
+> C.2. AND
+>> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
 
 >>
->> C.3. OR
->>> -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
+> C.3. OR
+>> -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
 
 >>
->> C.4. XOR
->>> -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
->>>
->>> -> For two given logical statements, the XOR function would return TRUE if one of the statements is true and FALSE if both statements are true. If neither of the statements is true, it also returns FALSE.
+> C.4. XOR
+>> -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
+>>
+>> -> For two given logical statements, the XOR function would return TRUE if one of the statements is true and FALSE if both statements are true. If neither of the statements is true, it also returns FALSE.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
 
 >>
->> C.5. ISBLANK
->>> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
+> C.5. ISBLANK
+>> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -165,48 +165,48 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >>
 ### 𝐃. 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
->> D.1. ISEVEN
->>>  -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
->>>
->>> -> ISEVEN will return the #VALUE error when a value is not numeric.
+> D.1. ISEVEN
+>>  -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
+>>
+>> -> ISEVEN will return the #VALUE error when a value is not numeric.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
 
 >>
->> D.2. ISODD
->>> -> The Excel ISODD function returns TRUE when a numeric value is odd, and FALSE for even numbers.
->>>
->>> -> ISODD will return the #VALUE error when a value is not numeric.
+> D.2. ISODD
+>> -> The Excel ISODD function returns TRUE when a numeric value is odd, and FALSE for even numbers.
+>>
+>> -> ISODD will return the #VALUE error when a value is not numeric.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
 
 >>
->> D.3. TYPE
->>> -> The Excel TYPE function returns a numeric code representing “type” in 5 categories:
->>>
->>> Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
->>>
->>> -> Use TYPE when the operation of a formula depends on the type of value in a particular cell. 
+> D.3. TYPE
+>> -> The Excel TYPE function returns a numeric code representing “type” in 5 categories:
+>>
+>> Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
+>>
+>> -> Use TYPE when the operation of a formula depends on the type of value in a particular cell. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
 
 >>
->> D.4.  ISNUMBER
->>> -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
+> D.4.  ISNUMBER
+>> -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
 
 >>
->> D.5. ISTEXT
->>> -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not. 
+> D.5. ISTEXT
+>> -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -214,40 +214,40 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >>
 ### 𝐄. 𝐃𝐀𝐓𝐄 𝐀𝐍𝐃 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
->> E.1. Day, Month, Year
->>> DAY
->>>
->>>  -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a gien date.
->>>
->>> -> You can use the DAY function to extract a day number from a date into a cell. 
+> E.1. Day, Month, Year
+>> DAY
+>>
+>>  -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a gien date.
+>>
+>> -> You can use the DAY function to extract a day number from a date into a cell. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->>> MONTH
->>>
->>> -> The Excel MONTH function extracts the month from a given date as number  between 1 to 12. 
+>> MONTH
+>>
+>> -> The Excel MONTH function extracts the month from a given date as number  between 1 to 12. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->>> YEAR
->>>
->>> -> The Excel YEAR functionreturns the year component of a given date as a 4 digit number. 
+>> YEAR
+>>
+>> -> The Excel YEAR functionreturns the year component of a given date as a 4 digit number. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
 >>
->> E.2. Now & Today
->>> ->  The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
->>>
->>> ->  The Excel TODAY() function returns the current date, updated continuously when a worksheet is changed or opened.
->>>
->>> Note: Both functions takes no arguments.
+> E.2. Now & Today
+>> ->  The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
+>>
+>> ->  The Excel TODAY() function returns the current date, updated continuously when a worksheet is changed or opened.
+>>
+>> Note: Both functions takes no arguments.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
  
@@ -256,30 +256,30 @@ Using Excel and the given data, participants in the activity will manipulate and
         =𝘛𝘖𝘋𝘈𝘠()
 
 >>
->> E.3. Weeknum
->>> -> The Excel WEEKNUM function takes a date and returns a week number (1 54) that corresponds to the week of the year.
->>>
->>> -> The WEEKNUM function starts counting with the week that contains January 1.
->>>
->>> -> By default, weeks begin on Sunday.
+> E.3. Weeknum
+>> -> The Excel WEEKNUM function takes a date and returns a week number (1 54) that corresponds to the week of the year.
+>>
+>> -> The WEEKNUM function starts counting with the week that contains January 1.
+>>
+>> -> By default, weeks begin on Sunday.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘞𝘌𝘌𝘒𝘕𝘜𝘔(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
 >>
->> E.4. Weekday
->>> -> The Excel WEEKDAY function takes a date and returns a number between 1 7 representing the day of week.
->>>
->>> -> By default, WEEKDAY returns 1 for Sunday and 7 for Saturday.
+> E.4. Weekday
+>> -> The Excel WEEKDAY function takes a date and returns a number between 1 7 representing the day of week.
+>>
+>> -> By default, WEEKDAY returns 1 for Sunday and 7 for Saturday.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘞𝘌𝘌𝘒𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳,[𝘳𝘦𝘵𝘶𝘳𝘯_𝘵𝘺𝘱𝘦])
 
 >>
->> E.5. EOMONTH
->>> -> The Excel EOMONTH function returns the last day of the month. 
+> E.5. EOMONTH
+>> -> The Excel EOMONTH function returns the last day of the month. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -287,40 +287,40 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >>
 ### 𝐅. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
->> F.1. LOOKUP
->>>  -> The Microsoft Excel LOOKUP function returns a value from a range (one row or one column) or from an array.
+> F.1. LOOKUP
+>>  -> The Microsoft Excel LOOKUP function returns a value from a range (one row or one column) or from an array.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
 
 >>
->> F.2. ADDRESS
->>> -> The Excel ADDRESS function returns the address for a cell based on a given row and column number.
+> F.2. ADDRESS
+>> -> The Excel ADDRESS function returns the address for a cell based on a given row and column number.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         = 𝘈𝘋𝘋𝘙𝘌𝘚𝘚( 𝘳𝘰𝘸, 𝘤𝘰𝘭𝘶𝘮𝘯, [𝘳𝘦𝘧_𝘵𝘺𝘱𝘦]. [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦]. [𝘴𝘩𝘦𝘦𝘵_𝘯𝘢𝘮𝘦] )
 
 >>
->> F.3. MATCH
->>> -> The Excel MATCH function returns the position of an item in a range
+> F.3. MATCH
+>> -> The Excel MATCH function returns the position of an item in a range
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
 
 >>
->> F.4. CHOOSE
->>> -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
+> F.4. CHOOSE
+>> -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
 
 >>
->> F.5. COLUMNS
->>> -> The Excel COLUMNS function returns the count of columns in a given reference
+> F.5. COLUMNS
+>> -> The Excel COLUMNS function returns the count of columns in a given reference
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
