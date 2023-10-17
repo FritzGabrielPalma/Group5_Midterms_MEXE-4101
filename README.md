@@ -29,6 +29,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
+>> ![UPPER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2dd10a94-0e6c-4b2c-8ab7-8fedd73171fd)
 
 > A.2. LOWER
 >> -> The Microsoft Excel UPPER function allows you to convert text to all lowercase.
@@ -36,6 +37,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
+>> ![LOWER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/3fe2a728-74c5-4a1c-abc1-903a563c81b1)
 
 > A.3. CONCATENATE
 >> -> The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
@@ -43,6 +45,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘕𝘊𝘈𝘛𝘌𝘕𝘈𝘛𝘌(𝘵𝘦𝘹𝘵1, [𝘵𝘦𝘹𝘵2, … 𝘵𝘦𝘹𝘵_𝘯])
+>> ![COCATENATE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/eeca0539-606e-4b83-b9cf-dea40cc99ea1)
 
 > A.4. LENGTH
 >>  -> The Microsoft Excel TRIM function returns the length of the specified string.
@@ -50,6 +53,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘌𝘕( 𝘵𝘦𝘹𝘵)
+>> ![LENGTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/67f34c93-11cc-455d-83c1-91f773c9d0d7)
 
 > A.5. REPLACE
 >> -> The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
@@ -57,6 +61,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘌𝘗𝘓𝘈𝘊𝘌( 𝘰𝘭𝘥_𝘵𝘦𝘹𝘵, 𝘴𝘵𝘢𝘳𝘵, 𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘴, 𝘯𝘦𝘸_𝘵𝘦𝘹𝘵 )
+>> ![REPLACE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/a7f5a014-6acd-48c4-af5b-57039a95c51b)
 
 
 ### 𝐁. 𝐌𝐀𝐓𝐇 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
@@ -67,9 +72,6 @@ Using Excel and the given data, participants in the activity will manipulate and
   
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌𝘐𝘍𝘚(𝘢𝘷𝘦𝘳𝘢𝘨𝘦_𝘳𝘢𝘯𝘨𝘦, [𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢_𝘳𝘢𝘯𝘨𝘦1, 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢1, …)
 >>![average](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/b063cd7f-fe38-4296-85c3-7689f4e68e1e)
-
-
-
 
 > B.2. MIN&MAX
 >> -> The MIN function can be used to return the smallest value from a set of data.
@@ -229,7 +231,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-
+>> 
 >> MONTH
 >>
 >> -> The Excel MONTH function extracts the month from a given date as number  between 1 to 12. 
@@ -246,7 +248,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->>
+>> ![DAY, MONTH, YEAR](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/01ed0d5b-50c4-4638-94bf-e4d7ba0c14a0)
+
 > E.2. Now & Today
 >> ->  The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
 >>
@@ -260,7 +263,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘛𝘖𝘋𝘈𝘠()
 
->>
+>> ![NOW   TODAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5eced260-0c50-433e-b898-c2737106a69c)
+
 > E.3. Weeknum
 >> -> The Excel WEEKNUM function takes a date and returns a week number (1 54) that corresponds to the week of the year.
 >>
@@ -272,7 +276,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘞𝘌𝘌𝘒𝘕𝘜𝘔(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->>
+>> ![WEEKNUM](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c9976fc1-11bf-420f-a552-b34e88e607b0)
+
 > E.4. Weekday
 >> -> The Excel WEEKDAY function takes a date and returns a number between 1 7 representing the day of week.
 >>
@@ -282,15 +287,17 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘞𝘌𝘌𝘒𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳,[𝘳𝘦𝘵𝘶𝘳𝘯_𝘵𝘺𝘱𝘦])
 
->>
-> E.5. EOMONTH
+>> ![WEEKDAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e2fe6143-66aa-430a-bfa0-7d8a9ccd268a)
+
+> E.5. EOMONTH 
 >> -> The Excel EOMONTH function returns the last day of the month. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
         =𝘌𝘖𝘔𝘖𝘕𝘛𝘏(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
 
->>
+>> ![EO MONTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/47a2ce6c-2585-4a24-ae7c-c4f09adaa15c)
+
 ### 𝐅. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > F.1. LOOKUP
 >>  -> The Microsoft Excel LOOKUP function returns a value from a range (one row or one column) or from an array.
