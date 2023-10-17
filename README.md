@@ -1,4 +1,4 @@
-# 𝐆𝐫𝐨𝐮𝐩𝟓_𝐌𝐢𝐝𝐭𝐞𝐫𝐦𝐬_𝐌𝐄𝐗𝐄-𝟒𝟏𝟎𝟏
+ # 𝐆𝐫𝐨𝐮𝐩𝟓_𝐌𝐢𝐝𝐭𝐞𝐫𝐦𝐬_𝐌𝐄𝐗𝐄-𝟒𝟏𝟎𝟏
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
 ![image](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5994307f-daae-4ba7-8140-96ce07ffe721)
@@ -131,7 +131,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
 
->
+>> ![IF Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1eef0695-ee81-423a-8e3c-311ad48954ee)
+
 > C.2. AND
 >> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
  
@@ -139,7 +140,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
 
->>
+>> ![AND Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/648a7c3e-b11d-4938-9586-92c206766a76)
+
 > C.3. OR
 >> -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
  
@@ -147,7 +149,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
 
->>
+>> ![OR Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/f6eb28bf-131a-4829-81c2-3ed731617594)
+
 > C.4. XOR
 >> -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
 >>
@@ -157,7 +160,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
 
->>
+>> ![XOR Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c2799073-ae6c-43af-8879-5cf17060527c)
+
 > C.5. ISBLANK
 >> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
  
@@ -165,7 +169,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
 
->>
+>> ![ISBLANK Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cb1a4f0b-1ad0-487b-b481-650081685609)
+
 ### 𝐃. 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > D.1. ISEVEN
 >>  -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
@@ -306,7 +311,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
 
->>
+>> ![LOOKUP](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/414927ae-13e0-4c32-93a8-7458c72709df)
+ 
 > F.2. ADDRESS
 >> -> The Excel ADDRESS function returns the address for a cell based on a given row and column number.
  
@@ -314,7 +320,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         = 𝘈𝘋𝘋𝘙𝘌𝘚𝘚( 𝘳𝘰𝘸, 𝘤𝘰𝘭𝘶𝘮𝘯, [𝘳𝘦𝘧_𝘵𝘺𝘱𝘦]. [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦]. [𝘴𝘩𝘦𝘦𝘵_𝘯𝘢𝘮𝘦] )
 
->>
+>> ![ADDRESS Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/9cdae21a-e69d-4c36-a302-2ec3ae331846)
+
 > F.3. MATCH
 >> -> The Excel MATCH function returns the position of an item in a range
  
@@ -322,7 +329,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
 
->>
+>> ![MATCH Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d3f02ed5-455d-4ef4-b831-5693d51b5023)
+
 > F.4. CHOOSE
 >> -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
  
@@ -330,7 +338,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
 
->>
+>> ![CHOOSE Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/0a09db05-18c2-46da-9480-49a751d98e52)
+
 > F.5. COLUMNS
 >> -> The Excel COLUMNS function returns the count of columns in a given reference
 
@@ -338,7 +347,8 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
 
->>
+>> ![COLUMNS](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d68b671f-d5f0-4223-a635-1921e4899786)
+
 
 ### 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬:
 1. https://www.kaggle.com/datasets/tulasiram574/hm-sales-data
