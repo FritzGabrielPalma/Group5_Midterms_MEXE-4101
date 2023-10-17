@@ -232,24 +232,20 @@ Using Excel and the given data, participants in the activity will manipulate and
 >>  -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a gien date.
 >>
 >> -> You can use the DAY function to extract a day number from a date into a cell. 
-
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-        =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 >> 
 >> MONTH
 >>
->> -> The Excel MONTH function extracts the month from a given date as number  between 1 to 12. 
-
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-        =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-
+>> -> The Excel MONTH function extracts the month from a given date as number  between 1 to 12.
+>> 
 >> YEAR
 >>
->> -> The Excel YEAR functionreturns the year component of a given date as a 4 digit number. 
-
+>> -> The Excel YEAR functionreturns the year component of a given date as a 4 digit number.
+>> 
 𝑺𝒚𝒏𝒕𝒂𝒙
+
+        =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+
+        =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
         =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
