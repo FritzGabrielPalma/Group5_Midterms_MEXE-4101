@@ -19,8 +19,9 @@ Presented below is an interactive Dashboard made from the available data and bee
 ### 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃
 <img width="1924" alt="image (1)" src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e0576d2c-923d-4eec-9325-614b25f477b6">
 
-Using Excel and the given data, participants in the activity will manipulate and demonstrate various Text, Math, Logical, Formation, Date and Time, and Lookup Functions. The corresponding tables created by the authors of this group using the various functions are shown below. 
 
+# 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒
+Using Excel and the given data, participants in the activity will manipulate and demonstrate various Text, Math, Logical, Formation, Date and Time, and Lookup Functions. The corresponding tables created by the authors of this group using the various functions are shown below. 
 
 ### 𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
