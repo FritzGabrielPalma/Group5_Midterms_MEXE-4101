@@ -17,10 +17,11 @@ The historical data contains tons of records for the H&M products sale. H&M – 
 Presented below is an interactive Dashboard made from the available data and been mapped out  by the group:
 
 ### 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃
-<img width="1924" alt="image (1)" src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e0576d2c-923d-4eec-9325-614b25f477b6">
 
+<img width="1924" alt="image (2)" src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/42b7f134-cea9-441e-82c7-c7c80e550419">
 
 # 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒
+
 Using Excel and the given data, participants in the activity will manipulate and demonstrate various Text, Math, Logical, Formation, Date and Time, and Lookup Functions. The corresponding tables created by the authors of this group using the various functions are shown below. 
 
 ### 𝐀. 𝐓𝐄𝐗𝐓 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
@@ -188,7 +189,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
 
->> -> The XOR function is used in this data by checking whether if either the profit earned or the total sales is greater than 0, then it would be given an output “True”. However, if both the profit and the total sales are both greater than 0 or both are not greater than 0, then it would be “False”
+>> -> The XOR function is used in this data by checking whether either the profit earned or the total sales are greater than 0, then it would be given an output “True”. However, if both the profit and the total sales are both greater than 0 or both are not greater than 0, then it would be “False”
 >> 
 >>  ![XOR Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c2799073-ae6c-43af-8879-5cf17060527c)
 
@@ -218,7 +219,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 >>  ![ISEVEN](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cf296889-d75b-4288-b938-931d581df105)
 
 > D.2. ISODD
->> -> The Excel ISODD function returns TRUE when a numeric value is odd, and FALSE for even numbers.
+>> -> The Excel ISODD function returns TRUE when a numeric value is odd and FALSE for even numbers.
 >>
 >> -> ISODD will return the #VALUE error when a value is not numeric.
 
@@ -291,7 +292,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->> ![DAY, MONTH, YEAR](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/01ed0d5b-50c4-4638-94bf-e4d7ba0c14a0)
+>> -> The DAY, MONTH, and YEAR functions in this data are used to take the date information from the "Invoice Date" cell and separate it into different cells, allowing each component (day, month, and year) to be displayed distinctly. With the use of this function, the date can be easily classified into its corresponding parts for easier presentation and analysis.
+>> 
+>>  ![DAY, MONTH, YEAR](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/01ed0d5b-50c4-4638-94bf-e4d7ba0c14a0)
 
 > E.2. Now & Today
 >> ->  The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
@@ -306,7 +309,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘛𝘖𝘋𝘈𝘠()
 
->> ![NOW   TODAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5eced260-0c50-433e-b898-c2737106a69c)
+>> -> The Now & Today functions in this data are used to represent the current date and time in which the integer part shows the date while the decimal part shows the time. This function enables precise calculations of dates.
+>> 
+>>  ![NOW   TODAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5eced260-0c50-433e-b898-c2737106a69c)
 
 > E.3. Weeknum
 >> -> The Excel WEEKNUM function takes a date and returns a week number (1 54) that corresponds to the week of the year.
@@ -319,10 +324,12 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘞𝘌𝘌𝘒𝘕𝘜𝘔(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
->> ![WEEKNUM](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c9976fc1-11bf-420f-a552-b34e88e607b0)
+>> -> The Weeknum function in this data is applied to indicate the number of weeks based on the data under the cell of "Invoice date" in a year. It helps in organizing and analyzing data based on weeks within a year.
+>> 
+>>  ![WEEKNUM](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c9976fc1-11bf-420f-a552-b34e88e607b0)
 
 > E.4. Weekday
->> -> The Excel WEEKDAY function takes a date and returns a number between 1 and 7 representing the day of week.
+>> -> The Excel WEEKDAY function takes a date and returns a number between 1 and 7 representing the day of the week.
 >>
 >> -> By default, WEEKDAY returns 1 for Sunday and 7 for Saturday.
  
@@ -330,7 +337,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘞𝘌𝘌𝘒𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳,[𝘳𝘦𝘵𝘶𝘳𝘯_𝘵𝘺𝘱𝘦])
 
->> ![WEEKDAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e2fe6143-66aa-430a-bfa0-7d8a9ccd268a)
+>> -> The Weekday function in this data is used to determine the day within a week an invoice was made based on the dates under the "Invoice date" cell. This function helps to identify which days of the week a particular transaction falls on.
+>> 
+>>  ![WEEKDAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e2fe6143-66aa-430a-bfa0-7d8a9ccd268a)
 
 > E.5. EOMONTH 
 >> -> The Excel EOMONTH function returns the last day of the month. 
@@ -339,7 +348,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘌𝘖𝘔𝘖𝘕𝘛𝘏(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
 
->> ![EO MONTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/47a2ce6c-2585-4a24-ae7c-c4f09adaa15c)
+>> -> The Eomonth function in this data is used to show how this function is used in calculating the end of the month based on the specified date under the cell "Invoice date" of the data. This function helps in determining the last day of the month relevant to the given date.
+>> 
+>>  ![EO MONTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/47a2ce6c-2585-4a24-ae7c-c4f09adaa15c)
 
 ### 𝐅. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > F.1. LOOKUP
@@ -398,7 +409,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 >>  ![COLUMNS](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d68b671f-d5f0-4223-a635-1921e4899786)
 
 
-### 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬:
-1. https://www.kaggle.com/datasets/tulasiram574/hm-sales-data
-2. https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fhm-logo%2F&psig=AOvVaw1edkoo7uBXM18ryySKxYx4&ust=1697611541541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCjjPm9_IEDFQAAAAAdAAAAABAD
-3. https://hmgroup.com/about-us/history/
+## 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬:
+1. H&M Sales data. (2022b, February 4). Kaggle. https://www.kaggle.com/datasets/tulasiram574/hm-sales-data
+2. H&M Group. (2023, June 16). History - H&M Group. https://hmgroup.com/about-us/history/
+3. Redirect notice. (n.d.). https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fhm-logo%2F&psig=AOvVaw1edkoo7uBXM18ryySKxYx4&ust=1697611541541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCjjPm9_IEDFQAAAAAdAAAAABAD
+4. Mikko De Torres, MexEE 402: Data Science in MS Excel. https://youtube.com/playlist?list=PLUgsbeZHs9qPrcsqsBtoTGlYfNcZAAyjf&si=exL-8hastG5RTLme
+
