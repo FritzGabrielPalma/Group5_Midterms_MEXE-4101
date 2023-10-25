@@ -19,7 +19,7 @@ Presented below is an interactive Dashboard made from the available data and bee
 
 ### 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃
 
-<img width="1924" alt="image (2)" src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/42b7f134-cea9-441e-82c7-c7c80e550419">
+<img width="965" alt="image" src="https://github.com/FritzGabrielPalma/Group5_Midterms_MEXE-4101/assets/143789131/15762939-59d9-4cf1-a649-3347692e4221">
 
 # 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒
 
