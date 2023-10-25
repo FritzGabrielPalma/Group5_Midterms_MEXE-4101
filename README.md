@@ -1,7 +1,6 @@
 # 𝐆𝐫𝐨𝐮𝐩𝟓_𝐌𝐢𝐝𝐭𝐞𝐫𝐦𝐬_𝐌𝐄𝐗𝐄-𝟒𝟏𝟎𝟏
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
-![image](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5994307f-daae-4ba7-8140-96ce07ffe721)
 
 ### 𝐇&𝐌 - 𝐇𝐞𝐧𝐧𝐞𝐬 & 𝐌𝐚𝐮𝐫𝐢𝐭𝐳
 When the terms "fast fashion" and "affordability" are used in relation to today's apparel industry. H&M, a company that is related to other companies like ZARA, UNIQLO, GAP, Forever 21, and many more, plays a significant role in this. 
