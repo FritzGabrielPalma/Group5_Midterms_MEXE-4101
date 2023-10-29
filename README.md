@@ -35,7 +35,10 @@ Using Excel and the given data, participants in the activity will manipulate and
     =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
 >> -> The UPPER function in this data is used to take all the names of the cities and turn them all into capital letters. This function helps to keep the text consistent and tidy, which is useful when dealing with large data sets. Also, standardizing the format of the text in capital letters makes it easier to work with, present, and analyze.
 >> 
->>  ![UPPER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2dd10a94-0e6c-4b2c-8ab7-8fedd73171fd)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2dd10a94-0e6c-4b2c-8ab7-8fedd73171fd">
+</p>
+
 
 > A.2. LOWER
 >> -> The Microsoft Excel UPPER function allows you to convert text to all lowercase.
@@ -45,7 +48,10 @@ Using Excel and the given data, participants in the activity will manipulate and
     =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
 >> -> The lower function in this data is used to take all the names of the cities, turning them all into lowercase letters. Similar to the upper function, it also helps to keep the text consistent and tidy, which is useful when dealing with large data sets. Also, standardizing the format of the text in lowercase letters makes it easier to work with, present, and analyze.
 >> 
->>  ![LOWER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/3fe2a728-74c5-4a1c-abc1-903a563c81b1)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/3fe2a728-74c5-4a1c-abc1-903a563c81b1">
+</p>
+
 
 > A.3. CONCATENATE
 >> -> The Microsoft Excel CONCATENATE function allows you to join 2 or more strings together. 
@@ -55,7 +61,10 @@ Using Excel and the given data, participants in the activity will manipulate and
     =𝘊𝘖𝘕𝘊𝘈𝘛𝘌𝘕𝘈𝘛𝘌(𝘵𝘦𝘹𝘵1, [𝘵𝘦𝘹𝘵2, … 𝘵𝘦𝘹𝘵_𝘯])
 >> -> The CONCATENATE function in this data is used as a custom data formatting to combine the data under the cells of City, State, and Country, respectively. This function allows the merging of different texts from different cells into one cell.
 >> 
->>  ![COCATENATE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/eeca0539-606e-4b83-b9cf-dea40cc99ea1)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/eeca0539-606e-4b83-b9cf-dea40cc99ea1">
+</p>
+
 
 > A.4. LENGTH
 >>  -> The Microsoft Excel TRIM function returns the length of the specified string.
@@ -63,9 +72,12 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘌𝘕( 𝘵𝘦𝘹𝘵)
->> -> The LENGTH function in this data is used to make sure that the number of characters inside the Order ID cell  are the same. This will help to ensure that the data entered in a cell does not exceed a certain length.
+>> -> The LENGTH function in this data is used to make sure that the number of characters inside the Order ID cell is the same. This will help to ensure that the data entered in a cell does not exceed a certain length.
 >> 
->>  ![LENGTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/67f34c93-11cc-455d-83c1-91f773c9d0d7)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/67f34c93-11cc-455d-83c1-91f773c9d0d7">
+</p>
+
 
 > A.5. REPLACE
 >> -> The Microsoft Excel REPLACE function replaces a sequence of characters in a string with another set of characters.
@@ -75,7 +87,9 @@ Using Excel and the given data, participants in the activity will manipulate and
     =𝘙𝘌𝘗𝘓𝘈𝘊𝘌( 𝘰𝘭𝘥_𝘵𝘦𝘹𝘵, 𝘴𝘵𝘢𝘳𝘵, 𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘴, 𝘯𝘦𝘸_𝘵𝘦𝘹𝘵 )
 >> -> The REPLACE function in this data is used to replace the full term "United States" into its abbreviation which is "USA". The REPLACE function in this data is used to replace the word United States into its abbreviation which is USA. This function allows making specific changes, replacements, and modifications to text within cells.
 >> 
->>  ![REPLACE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/a7f5a014-6acd-48c4-af5b-57039a95c51b)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/a7f5a014-6acd-48c4-af5b-57039a95c51b">
+</p>
 
 
 ### 𝐁. 𝐌𝐀𝐓𝐇 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
