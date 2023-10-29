@@ -85,7 +85,7 @@ Using Excel and the given data, participants in the activity will manipulate and
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘙𝘌𝘗𝘓𝘈𝘊𝘌( 𝘰𝘭𝘥_𝘵𝘦𝘹𝘵, 𝘴𝘵𝘢𝘳𝘵, 𝘯𝘶𝘮𝘣𝘦𝘳_𝘰𝘧_𝘤𝘩𝘢𝘳𝘴, 𝘯𝘦𝘸_𝘵𝘦𝘹𝘵 )
->> -> The REPLACE function in this data is used to replace the full term "United States" into its abbreviation which is "USA". The REPLACE function in this data is used to replace the word United States into its abbreviation which is USA. This function allows making specific changes, replacements, and modifications to text within cells.
+>> -> The REPLACE function in this data is used to replace the full term "United States" with its abbreviation which is "USA". The REPLACE function in this data is used to replace the word United States with its abbreviation which is the USA. This function allows making specific changes, replacements, and modifications to text within cells.
 >> 
 <p align="center">
     <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/a7f5a014-6acd-48c4-af5b-57039a95c51b">
@@ -101,7 +101,10 @@ Using Excel and the given data, participants in the activity will manipulate and
     =𝘈𝘝𝘌𝘙𝘈𝘎𝘌𝘐𝘍𝘚(𝘢𝘷𝘦𝘳𝘢𝘨𝘦_𝘳𝘢𝘯𝘨𝘦, [𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢_𝘳𝘢𝘯𝘨𝘦1, 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢1, …)
 >> -> We determined the average sales of specific product categories sold by the company, including accessories, clothing, and footwear, using this MATH Function and the data available for the 2018 H&M Sales. Relative to the four areas of the United States of America are the average sales for each category.
 >> 
->>![average](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/b063cd7f-fe38-4296-85c3-7689f4e68e1e)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/b063cd7f-fe38-4296-85c3-7689f4e68e1e">
+</p>
+
 
 > B.2. MIN&MAX
 >> -> The MIN function can be used to return the smallest value from a set of data.
@@ -116,7 +119,9 @@ Using Excel and the given data, participants in the activity will manipulate and
  
 >> -> 	It is possible to determine which region in the United States of America has the MINIMUM and MAXIMUM sales per category of goods by manipulating this MATH Function. The brand may use this to choose where to direct its attention in order to increase performance
 >> 
->>  ![MIN MAX](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/55ca96a7-4fd8-4e47-a0ac-e518e34283e2)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/55ca96a7-4fd8-4e47-a0ac-e518e34283e2">
+</p>
 
 
 > B.3. MEDIAN
@@ -130,7 +135,9 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> A data set's middle value, from least to largest, is represented by this MATH Function of MEDIAN. This is now used to determine the median revenue per category of products in relation to the four US regions. Most crucially, in sales data that is dispersed or variable, this can be a performance factor assessor.
 >> 
->> ![MEDIAN](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/065b28b5-c53c-45b6-a40f-4e8f34b4bd6f)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/065b28b5-c53c-45b6-a40f-4e8f34b4bd6f">
+</p>
 
 
 > B.4. LARGE
@@ -144,20 +151,25 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The MATH Function of LARGE can be used to rank particular items according to the sales they produce for the company. The greatest value among the sales of various products is filtered out by this and returned. which the corporation may utilize to determine which products are popular and which ones still require refinement.
 >> 
->> ![LARGE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/6ec5b4dc-4c55-4e43-a0d9-e004288be9c0)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/6ec5b4dc-4c55-4e43-a0d9-e004288be9c0">
+</p>
+
 
 
 > B.5. SUBTOTAL
 >> -> The Excel SUBTOTAL function returns an aggregate result for supplied values.
 >>
->> -> SUBTOTAL can return a SUM, AVERAGE, COUNT, MAX, and others (see table below), and SUBTOTAL function can either include or exclude values in hidden rows.
+>> -> SUBTOTAL can return a SUM, AVERAGE, COUNT, MAX, and others (see table below), and the SUBTOTAL function can either include or exclude values in hidden rows.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘜𝘉𝘛𝘖𝘛𝘈𝘓(𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯_𝘯𝘶𝘮, 𝘳𝘦𝘧1, …)
 >> -> In this case, the average sales of the corporation through the various states in the United States of America are calculated using the MATH function SUBTOTAL - AVERAGE. This function can serve as a summary of the firm's success by indicating if average sales are achieving the company's goals or whether this is not what the company had anticipated.
 >> 
->>  ![SUBTOTAL](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/fed6ba83-2465-488a-bf01-7fa697306371)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/fed6ba83-2465-488a-bf01-7fa697306371">
+</p>
 
 
 >> 
@@ -171,7 +183,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The IF function is used in this data by checking whether the profit earned is greater than 0 or not. If the data is greater than 0 then it would give an output “Profit” otherwise “Loss”
 >> 
->> ![IF Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1eef0695-ee81-423a-8e3c-311ad48954ee)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1eef0695-ee81-423a-8e3c-311ad48954ee">
+</p>
+
 
 > C.2. AND
 >> -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
@@ -182,7 +197,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The AND function is used in this data by checking whether the profit earned and the total sales is greater than 0, if both data are greater than 0 then it would give an output that is “True”, otherwise, if all data are not greater than 0 or one data is not greater than 0 then it would be “False”.
 >> 
->>  ![AND Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/648a7c3e-b11d-4938-9586-92c206766a76)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/648a7c3e-b11d-4938-9586-92c206766a76">
+</p>
+
 
 > C.3. OR
 >> -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
@@ -191,9 +209,12 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
 
->> -> The OR function is used in this data by checking whether the profit earned and the total sales is greater than 0, if both data are greater than 0 or one data is greater than 0 then it would give an output which is “True”, otherwise, if all data are not greater than 0  then it would be “False”.
+>> -> The OR function is used in this data by checking whether the profit earned and the total sales is greater than 0, if both data are greater than 0 or one data is greater than 0 then it would give an output that is “True”, otherwise, if all data are not greater than 0  then it would be “False”.
 >> 
->>  ![OR Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/f6eb28bf-131a-4829-81c2-3ed731617594)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/f6eb28bf-131a-4829-81c2-3ed731617594">
+</p>
+
 
 > C.4. XOR
 >> -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
@@ -206,7 +227,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The XOR function is used in this data by checking whether either the profit earned or the total sales are greater than 0, then it would be given an output “True”. However, if both the profit and the total sales are both greater than 0 or both are not greater than 0, then it would be “False”
 >> 
->>  ![XOR Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c2799073-ae6c-43af-8879-5cf17060527c)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c2799073-ae6c-43af-8879-5cf17060527c">
+</p>
+
+
 
 > C.5. ISBLANK
 >> -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE.
@@ -215,9 +240,12 @@ Using Excel and the given data, participants in the activity will manipulate and
 
         =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
 
->> -> The ISBLANK function is used in this data to check whether the products have been released or not, by examining whether there is a record of the number of customers who have availed the first, second, or standard class of shipment for each product type. If there is a record of the number of shipments, then these products are labeled as "Released"; otherwise, they are labeled as "Not Released."
+>> -> The ISBLANK function is used in this data to check whether the products have been released or not, by examining whether there is a record of the number of customers who have availed of the first, second, or standard class of shipment for each product type. If there is a record of the number of shipments, then these products are labeled as "Released"; otherwise, they are labeled as "Not Released."
 >> 
->>  ![ISBLANK Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cb1a4f0b-1ad0-487b-b481-650081685609)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cb1a4f0b-1ad0-487b-b481-650081685609">
+</p>
+
 
 ### 𝐃. 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > D.1. ISEVEN
@@ -231,7 +259,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> In order to ascertain whether the sales generated in each of the states are even or not, ISEVEN was utilized as an INFORMATION Function in this data. The formula yields "TRUE" if the corresponding sales are even, and "FALSE" otherwise.
 >> 
->>  ![ISEVEN](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cf296889-d75b-4288-b938-931d581df105)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/cf296889-d75b-4288-b938-931d581df105">
+</p>
+
 
 > D.2. ISODD
 >> -> The Excel ISODD function returns TRUE when a numeric value is odd and FALSE for even numbers.
@@ -244,7 +275,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> In the same manner of determining whether the sale is odd. To determine whether the sales made in the respective states of the United States of America are odd numbers, the ISODD is utilized. returns "TRUE" if this occurs, and "FALSE" otherwise.
 >> 
->>  ![ISODD](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1f9ccfb9-8845-4886-9592-2ecf8c88a97f)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/1f9ccfb9-8845-4886-9592-2ecf8c88a97f">
+</p>
+
+
 
 > D.3. TYPE
 >> -> The Excel TYPE function returns a numeric code representing “type” in 5 categories:
@@ -259,7 +294,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> This function is used to identify the category to which a cell's data belongs. We know if the information is numerical, textual, logical, or even an error. This classification is given the appropriate numbers for quick identification.
 >> 
->> ![TYPE](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2492be2e-c39c-415f-99c6-0b6e1de10063)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2492be2e-c39c-415f-99c6-0b6e1de10063">
+</p>
+
+
 
 > D.4.  ISNUMBER
 >> -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
@@ -270,7 +309,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The ISNUMBER function is used to determine whether a cell's data contains a numerical value or not. The formula returns "TRUE" when the input is a number and "FALSE" when it is not.
 >> 
->>  ![ISNUMBER](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/711342fb-2c62-4a25-a3a4-50c517a1ccb6)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/711342fb-2c62-4a25-a3a4-50c517a1ccb6">
+</p>
+
 
 > D.5. ISTEXT
 >> -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not. 
@@ -281,7 +323,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> In a similar way as ISNUMBER, if the data in a cell is text at this point, the Information function of ISTEXT is used. We have checked to see if the available data on the regions column contains text or not. It turned out that everything was text, which produced "TRUE" results for everyone.
 >> 
->> ![ISTEXT](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2b4a5af7-a922-4e4f-9282-886be4343933)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/2b4a5af7-a922-4e4f-9282-886be4343933">
+</p>
+
+
 
 ### 𝐄. 𝐃𝐀𝐓𝐄 𝐀𝐍𝐃 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > E.1. Day, Month, Year
@@ -309,7 +355,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The DAY, MONTH, and YEAR functions in this data are used to take the date information from the "Invoice Date" cell and separate it into different cells, allowing each component (day, month, and year) to be displayed distinctly. With the use of this function, the date can be easily classified into its corresponding parts for easier presentation and analysis.
 >> 
->>  ![DAY, MONTH, YEAR](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/01ed0d5b-50c4-4638-94bf-e4d7ba0c14a0)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/01ed0d5b-50c4-4638-94bf-e4d7ba0c14a0">
+</p>
+
+
 
 > E.2. Now & Today
 >> ->  The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
@@ -326,7 +376,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Now & Today functions in this data are used to represent the current date and time in which the integer part shows the date while the decimal part shows the time. This function enables precise calculations of dates.
 >> 
->>  ![NOW   TODAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5eced260-0c50-433e-b898-c2737106a69c)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/5eced260-0c50-433e-b898-c2737106a69c">
+</p>
+
 
 > E.3. Weeknum
 >> -> The Excel WEEKNUM function takes a date and returns a week number (1 54) that corresponds to the week of the year.
@@ -341,7 +394,11 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Weeknum function in this data is applied to indicate the number of weeks based on the data under the cell of "Invoice date" in a year. It helps in organizing and analyzing data based on weeks within a year.
 >> 
->>  ![WEEKNUM](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c9976fc1-11bf-420f-a552-b34e88e607b0)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/c9976fc1-11bf-420f-a552-b34e88e607b0">
+</p>
+
+
 
 > E.4. Weekday
 >> -> The Excel WEEKDAY function takes a date and returns a number between 1 and 7 representing the day of the week.
@@ -354,7 +411,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Weekday function in this data is used to determine the day within a week an invoice was made based on the dates under the "Invoice date" cell. This function helps to identify which days of the week a particular transaction falls on.
 >> 
->>  ![WEEKDAY](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e2fe6143-66aa-430a-bfa0-7d8a9ccd268a)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/e2fe6143-66aa-430a-bfa0-7d8a9ccd268a">
+</p>
+
 
 > E.5. EOMONTH 
 >> -> The Excel EOMONTH function returns the last day of the month. 
@@ -365,7 +425,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Eomonth function in this data is used to show how this function is used in calculating the end of the month based on the specified date under the cell "Invoice date" of the data. This function helps in determining the last day of the month relevant to the given date.
 >> 
->>  ![EO MONTH](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/47a2ce6c-2585-4a24-ae7c-c4f09adaa15c)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/47a2ce6c-2585-4a24-ae7c-c4f09adaa15c">
+</p>
+
 
 ### 𝐅. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 > F.1. LOOKUP
@@ -377,7 +440,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Lookup function is used in this data by checking first the column where the data of total sales are located and it will find in which cell has the highest value. After finding the highest total sales, it would now look for the product ID with the highest total sales by using the lookup function.
 >> 
->>  ![LOOKUP](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/414927ae-13e0-4c32-93a8-7458c72709df)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/414927ae-13e0-4c32-93a8-7458c72709df">
+</p>
+
  
 > F.2. ADDRESS
 >> -> The Excel ADDRESS function returns the address for a cell based on a given row and column number.
@@ -388,7 +454,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Address function is used in this data by finding first the cell with the highest total sales in the column where the total sales are located and after finding it, the match function was used to identify its exact position with the highest total sales. The column function is then used to identify its exact column number and lastly by applying the address function where it combines the results in the match function for the row and the column function for the row.
 >> 
->>  ![ADDRESS Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/9cdae21a-e69d-4c36-a302-2ec3ae331846)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/9cdae21a-e69d-4c36-a302-2ec3ae331846">
+</p>
+
 
 > F.3. MATCH
 >> -> The Excel MATCH function returns the position of an item in a range
@@ -399,7 +468,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Match function is used in this data by finding first the cell with the highest total profit in the column where the total profit is located. After finding the cell with the highest total profit, the match function was used to identify its exact row position with the highest total profit.
 >> 
->> ![MATCH Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d3f02ed5-455d-4ef4-b831-5693d51b5023)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d3f02ed5-455d-4ef4-b831-5693d51b5023">
+</p>
+
 
 > F.4. CHOOSE
 >> -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
@@ -410,7 +482,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Choose function is used in this data to check the status of the data if the product gained a high or low profit or caused some losses. If the data is below zero then it would give an output “Loss”, if the data is below 50 then it has “Low Profit”, lastly, if the data is below 500 then it has “High Profit”
 >> 
->>  ![CHOOSE Function](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/0a09db05-18c2-46da-9480-49a751d98e52)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/0a09db05-18c2-46da-9480-49a751d98e52">
+</p>
+
 
 > F.5. COLUMNS
 >> -> The Excel COLUMNS function returns the count of columns in a given reference
@@ -421,7 +496,10 @@ Using Excel and the given data, participants in the activity will manipulate and
 
 >> -> The Columns function is utilized in this dataset to determine the count of columns in which each data category is entered.
 >> 
->>  ![COLUMNS](https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d68b671f-d5f0-4223-a635-1921e4899786)
+<p align="center">
+    <img src="https://github.com/John-Rey-Decano/Group5_Midterms_MEXE-4101/assets/143807174/d68b671f-d5f0-4223-a635-1921e4899786">
+</p>
+
 
 
 ## 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬:
